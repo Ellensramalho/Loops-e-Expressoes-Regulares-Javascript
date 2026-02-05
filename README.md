@@ -29,10 +29,10 @@ Os resultados serão exibidos no console.
 
 ## 🎯 Objetivo do projeto
 
-* Praticar estruturas de repetição em JavaScript
-* Entender a diferença entre `for...of` e `for...in`
-* Aprender os conceitos básicos de expressões regulares
-* Reforçar o uso de manipulação de strings no JavaScript
+* Praticar estruturas de repetição em JavaScript.
+* Entender a diferença entre `for...of` e `for...in`.
+* Aprender os conceitos básicos de expressões regulares.
+* Reforçar o uso de manipulação de strings no JavaScript.
 
 ---
 
@@ -40,10 +40,7 @@ Os resultados serão exibidos no console.
 
 Este projeto é voltado para:
 
-* Iniciantes em JavaScript
-* Estudantes de programação
-* Pessoas revisando fundamentos da linguagem
+* Iniciantes em JavaScript.
+* Estudantes de programação.
+* Pessoas revisando fundamentos da linguagem.
 
----
-
-Se quiser, eu adapto o texto pro seu nível (escola, curso técnico, faculdade, portfólio, etc.). Quer que eu deixe mais simples ou mais formal? 😄
